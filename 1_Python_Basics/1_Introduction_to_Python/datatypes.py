@@ -9,3 +9,7 @@ print("Float:", b, "Type:", type(b))
 # String
 c = "Hello, Python!"
 print("String:", c, "Type:", type(c))
+
+# String 2
+d = 'Python is fun!'
+print("String 2:", d, "Type:", type(d))
