@@ -12,7 +12,8 @@ person = {
     'profession': ['Engineer', 'Designer', 'Manager']
 }
 print()
-print(person['name']['last'])
+# print(person['name']['last'])
+print(person['sex'])  # 30
 
 # # Using dict() constructor
 # person2 = dict(name='Bob', age=25, profession='Designer')

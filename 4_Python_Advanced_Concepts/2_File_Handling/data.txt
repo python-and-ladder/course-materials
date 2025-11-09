@@ -1,0 +1,6 @@
+Morning, Go for a walk
+Morning, Have breakfast
+Afternoon, Attend meeting
+Evening, Read a book
+Evening, Cook dinner
+Night, Sleep
